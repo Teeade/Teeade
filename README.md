@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Teeade
-- 👀 I’m interested in data
+- 👀 I’m interested in AI and Machine learning
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on AI and Machine learning
 - 📫 How to reach me teeade89@gmail.com
